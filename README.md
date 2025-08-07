@@ -8,7 +8,6 @@ Repositório com exercícios de lógica desenvolvidos em Python, como parte da m
 - `condicionais/` → `if`, `elif`, `else`
 - `listas/` → manipulação básica de listas
 - `funcoes/` → funções simples e reutilizáveis
-- `desafios/` → exercícios que combinam vários conceitos
 
 ## 🚀 Objetivo
 
